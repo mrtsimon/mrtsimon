@@ -2,7 +2,7 @@
 
 ### Poste actuel
 **Growth Manager chez Spark.do**
-- Responsable de la croissance et du développement des stratégies commerciales chez Spark.do.
+- Responsable de la croissance et du développement des stratégies PAID et SEA chez Spark.do pour ses clients.
 - Expertise en accroissant la visibilité et le chiffre d'affaires des entreprises sur Internet.
 
 ### Expérience Freelance
