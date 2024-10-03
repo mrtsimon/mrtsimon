@@ -8,12 +8,12 @@
 ### Expérience Freelance
 **Webmaster Freelance**
 - Aide les entreprises à établir et à améliorer leur présence en ligne.
-- Spécialisé dans le développement de stratégies numériques pour augmenter les ventes et l'engagement client via le PAID et le SEA.
+- Spécialisé dans le développement de stratégies pour augmenter les ventes et l'engagement client via le PAID et le SEA.
 
 ### Compétences Clés
-- Stratégie de croissance
-- Marketing numérique
+- Tracking Client et Server Side
 - Développement web
+- Gestion de campagnes en SEA et Social Ads
 
 ### Localisation
 Bordeaux, Nouvelle-Aquitaine, France
